@@ -2,4 +2,6 @@ Hello, here we will play a bit with Git!
 Now we are okaying!
 This time from GitHub from browser.
 
+Now with the new branch.
 We changed this in main branch.
+
